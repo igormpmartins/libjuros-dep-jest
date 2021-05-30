@@ -1,0 +1,18 @@
+{
+  "name": "06-js-avanc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "juros.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.3"
+  },
+  "jest": {
+    "collectCoverage": true
+  }
+}
